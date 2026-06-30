@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:0f3460,100:1a1a2e&height=280&section=header&text=SHALINI%20S&fontSize=90&fontColor=7ec8f7&animation=fadeIn&desc=ML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Data%20Science%20Enthusiast&descSize=25&descAlign=62&descAlignY=70)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:0f3460,100:1a1a2e&height=280&section=header&text=SHALINI%20S&fontSize=90&fontColor=7ec8f7&animation=fadeIn&desc=ML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Data%20Science%20&descAlignY=70)
 
 <div align="center">
 
